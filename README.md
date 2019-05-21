@@ -6,7 +6,7 @@ We use a relativistic generative adversarial network to implement image domain t
 <img src="https://github.com/Xingrun-Xing/RGAN-based-Pix2pix/blob/master/Figure3.PNG"><br>
 
 ### Label-to-photo task on the Cityscapes dataset
-<img src="https://github.com/Xingrun-Xing/RGAN-based-Pix2pix/blob/master/Figure%201.png"  width=100%/><br>
+<img src="https://github.com/Xingrun-Xing/RGAN-based-Pix2pix/blob/master/Figure_1.png"  width=100%/><br>
 
 ### Photo-to-map task on the Google-maps
 <img src="https://github.com/Xingrun-Xing/RGAN-based-Pix2pix/blob/master/Figure%202.png"  width=100%/><br>
