@@ -13,4 +13,12 @@ We use a relativistic generative adversarial network to implement image domain t
 
 # Run
 
+### Requirements: 
+* Install [PyTorch](https://pytorch.org/) (tested on release 0.4.0 and 0.4.1).
+* Clone [Pix2pix-Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) as backbone training framework.
+### Training and Validation:
+* Copy [pix2pix_model.py](/pix2pix_model.py), into `pytorch-CycleGAN-and-pix2pix/models/` to exchange the basic GAN model.
+
+* Launch training with [Pix2pix-Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) as backbone training framework.
+
 
